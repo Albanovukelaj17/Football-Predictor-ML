@@ -6,6 +6,14 @@
 .RData
 .RDataTmp
 
+
+
+
+dataset offline/
+
+dataset offline/game_lineups.csv
+dataset offline/game_events.csv
+dataset offline/appearances.csv
 # User-specific files
 .Ruserdata
 
