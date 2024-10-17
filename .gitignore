@@ -14,6 +14,14 @@ dataset offline/
 dataset offline/game_lineups.csv
 dataset offline/game_events.csv
 dataset offline/appearances.csv
+dataset offline/club_games.csv
+dataset offline/competitions.csv
+dataset offline/games.csv
+dataset offline/player_valutations
+dataset offline/players.csv
+dataset offline/transfer.csv
+dataset offline/clubs.csv
+
 # User-specific files
 .Ruserdata
 
